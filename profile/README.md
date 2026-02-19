@@ -1,20 +1,32 @@
-# GitHub 組織について
+Kimura Seal Co., Ltd (キムラシール株式会社)
 
-本GitHub組織は、開発に関するすべての**ハードウェア回路設計データ**および**ソフトウェアソースコード**の**クラウドバックアップ**および**バージョン管理システム**として運用されています。
+Kimura Seal is a Japanese packaging machinery manufacturer based in Hyogo Prefecture, specializing in high-quality sealing and printing solutions designed for a wide range of packaging needs. The company’s products serve industries such as food, pharmaceuticals, cosmetics, and more, and emphasize ease of use, robust performance, and reliable after-sales support.
 
-## **目的**
-- ハードウェア設計およびソフトウェア開発データの管理
-- バージョン管理による変更履歴の保存と追跡
-- チーム内での円滑なファイル共有とコラボレーション
+What We Do
 
-## **利用方法**
-1. 最新のデータを取得するために、`git clone` または `git pull` を実行してください。
-2. 変更を加えた場合は、適切なコミットメッセージを記述し、`git push` してください。
-3. プルリクエストを作成し、変更内容のレビューを行うことを推奨します。
+We design, build, and supply a broad lineup of bag sealers and printing machines that help automate and streamline packaging operations, including:
 
-## **注意事項**
-- 機密情報や個人情報はアップロードしないでください。
-- ファイルの更新・管理は適切なブランチ運用を行い、必要に応じてマージしてください。
-- 不明点がある場合は、管理者にお問い合わせください。
+Heavy-duty band sealer machines for various films and bag types
 
-今後も適切な管理のもと、開発の効率化を目指していきます。
+Sealing machines with integrated printing or coding capabilities
+
+Vacuum and gas–flush sealing systems for quality-sensitive products
+
+Compact bench-top sealing and printing units
+Each product line is built around practicality and operator simplicity to improve throughput and reduce error in packaging workflows.
+
+Our Commitment
+
+We are committed to:
+
+Engineering excellence through technical refinement and innovation
+
+Quality management backed by ISO-aligned systems
+
+Customer service from demo support to after-sales care
+
+Global reach with over 450+ clients and expansion into international markets (e.g., Vietnam)
+
+Why It Matters
+
+Kimura Seal’s solutions help packaging professionals achieve consistent seals, integrated printing, and controlled atmospheres (vacuum / gas flushing) — all critical for product safety, branding, traceability, and extended shelf life in manufacturing environments.
